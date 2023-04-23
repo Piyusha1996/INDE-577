@@ -5,20 +5,20 @@ Welcome to my GitHub profile! Here you will find a collection of Jupyter Noteboo
 
 This repository contains my data science and machine learning projects. I am currently studying the following topics in my course:
 
-#Supervised Learning
-Model Building and Error Analysis
-Linear Regression
-Gradient Descent
-Logistic Regression
-Neural Nets
-Support Vector Machines
-k-Nearest Neighbors
-Decision/ Regression Trees
-Ensemble Learning
-#Unsupervised Learning
-k-Means Clustering
-Principal Component Analysis
-#Reinforcement Learning
-Tabular versus Deep Learning Methods
+-Supervised Learning
+    Model Building and Error Analysis
+    Linear Regression
+    Gradient Descent
+    Logistic Regression
+    Neural Nets
+    Support Vector Machines
+    k-Nearest Neighbors
+    Decision/ Regression Trees
+    Ensemble Learning
+-Unsupervised Learning
+    k-Means Clustering
+    Principal Component Analysis
+-Reinforcement Learning
+    Tabular versus Deep Learning Methods
 
 I will be implementing these algorithms from scratch and also making use of popular libraries such as Scikit-Learn and Tensorflow. My projects will include both supervised and unsupervised learning algorithms, with a focus on real-world applications.
