@@ -9,7 +9,7 @@ Various GD variants exist, which differ in the method for selecting the step siz
 ![image](https://blog.paperspace.com/content/images/2018/05/convex_cost_function.png)
 
 
-## Description
+## Type of Gradient Decent
 - Batch Gradient Descent: Computes the gradient and updates the parameters using the entire training dataset in each iteration, potentially yielding a more accurate model. However, this approach can be slow for large datasets.
 - Stochastic Gradient Descent (SGD): Computes the gradient and updates the parameters using only one training example at each iteration. SGD can be faster than batch gradient descent but may result in more noise in the updates.
 - Mini-batch Gradient Descent: Computes the gradient and updates the parameters using a small batch of training examples at each iteration. This approach can be a compromise between batch gradient descent and SGD, as it can be faster than batch gradient descent and less noisy than SGD.
