@@ -29,8 +29,8 @@ I will be implementing these algorithms from scratch and also making use of popu
 
 
 Further Reading
-Hands-On Machine Learning with Scikit-learn, Keras, and Tensorflow
-An Introduction to Statistical Learning: with Applications in R
-Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence
-Python Basics: A Practical Introduction to Python3
-Python Machine Learning
+!Hands-On Machine Learning with Scikit-learn, Keras, and Tensorflow
+!An Introduction to Statistical Learning: with Applications in R
+!Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence
+!Python Basics: A Practical Introduction to Python3
+!Python Machine Learning
