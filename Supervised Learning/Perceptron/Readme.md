@@ -8,6 +8,8 @@ The perceptron model consists of input values and their weights, the sum of all 
 ![image](https://static.javatpoint.com/tutorial/machine-learning/images/perceptron-in-machine-learning2.png)
 
 
+
+
 There are two types of perceptron models based on the layers: single-layer perceptron and multi-layer perceptron. A single-layer perceptron model consists of a feed-forward network with a threshold transfer function, and it is used to analyze linearly separable objects with binary outcomes. It can only learn linearly separable patterns.
 
 ![image](https://miro.medium.com/v2/resize:fit:563/1*4_BDTvgB6WoYVXyxO8lDGA.png)
@@ -15,8 +17,6 @@ There are two types of perceptron models based on the layers: single-layer perce
 On the other hand, a multi-layer perceptron model has a greater number of hidden layers and is also known as the backpropagation algorithm. It has greater processing power and can process both linear and non-linear patterns. It can also implement logic gates such as AND, OR, XOR, NAND, NOT, XNOR, NOR. It is used to solve complex non-linear problems.
 
 The perceptron function can be achieved as output by multiplying the input with the learned weight coefficient. The weight coefficient is automatically learned by the algorithm, and the linear decision boundary is drawn, enabling the distinction between the two linearly separable classes +1 and -1.
-
-Perceptron has certain limitations, such as it can only classify linearly separable sets of input vectors, and the output can only be a binary number due to the hard limit transfer function.
 
 Perceptrons are trained in three phases:
 
@@ -56,6 +56,8 @@ Choose an activation function
 The goal is to reduce the number of misclassified points, so by iterating through the algorithm, the separation line moves in space and after a few epochs, the algorithm classifies it correctly.
 
 In the Perceptron learnning rule, predicted output is compared with known output; if they do not match, error is propagated backward to allow weight adjustment to happen
+
+Perceptron has certain limitations, such as it can only classify linearly separable sets of input vectors, and the output can only be a binary number due to the hard limit transfer function.
 
 The future of perceptron technology is bright and significant as it helps to interpret data by building intuitive patterns and applying them in the future. It is continuously becoming more advanced and working efficiently on complex problems with the help of artificial neurons.
 
