@@ -19,7 +19,7 @@ Various GD variants exist, which differ in the method for selecting the step siz
 
 The choice of which GD variant to use depends on the specific problem and available computing resources. GD is a powerful optimization algorithm and a popular choice for algorithms like linear regression, logistic regression, and neural networks.
 ## Equation used:
-![image]([https://miro.medium.com/v2/resize:fit:330/1*GixQ9i6cQSvlfoe_XZdcog.gif](https://miro.medium.com/v2/resize:fit:1400/1*tQTcGTLZqnI5rp3JYO_4NA.png))
+![image]([https://miro.medium.com/v2/resize:fit:330/1*GixQ9i6cQSvlfoe_XZdcog.gif](https://miro.medium.com/v2/resize:fit:1400/1*tQTcGTLZqnI5rp3JYO_4NA.png)
 
 
 - The learning rate is a crucial parameter in the gradient descent algorithm that controls the size of the steps taken towards the optimal solution. A high learning rate allows us to cover more ground but may result in overshooting the lowest point due to the constantly changing slope. In contrast, a low learning rate is more precise, but calculating the gradient is time-consuming, and it may take a long time to reach the optimal solution.
