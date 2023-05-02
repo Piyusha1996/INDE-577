@@ -10,7 +10,7 @@ Unsupervised learning is often used for exploratory data analysis, data visualiz
 
 
 
-![Logo](https://www.tibco.com/sites/tibco/files/media_entity/2020-09/unsupervised-learning-diagram.svg)
+![image](https://www.tibco.com/sites/tibco/files/media_entity/2020-09/unsupervised-learning-diagram.svg)
 
 
 
