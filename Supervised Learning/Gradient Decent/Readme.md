@@ -21,6 +21,11 @@ The choice of which GD variant to use depends on the specific problem and availa
 ## Equation used:
 ![image](https://miro.medium.com/v2/resize:fit:330/1*GixQ9i6cQSvlfoe_XZdcog.gif)
 
+
+- The learning rate is a crucial parameter in the gradient descent algorithm that controls the size of the steps taken towards the optimal solution. A high learning rate allows us to cover more ground but may result in overshooting the lowest point due to the constantly changing slope. In contrast, a low learning rate is more precise, but calculating the gradient is time-consuming, and it may take a long time to reach the optimal solution.
+
+- The cost function measures how well a model predicts outcomes based on its parameters, and it has its own curve and gradients. To improve the model's accuracy, we need to use partial derivatives to consider the impact of each parameter on the final prediction. We calculate the partial derivatives of the cost function with respect to each parameter, store the results in a gradient, and iterate through our data points to solve for the gradient, which tells us the slope of our cost function at our current position and the direction we should move to update our parameters. The learning rate controls the size of our update.
+
 The Gradient Descent Algorithm is an iterative process that involves calculating the next point using the gradient at the current position. The obtained value is then scaled by a learning rate and subtracted from the current position to make a step. This is done to minimize the function since adding it would maximize it. The learning rate, denoted as η, is an important parameter that scales the gradient and determines the step size. In machine learning, the learning rate strongly influences the algorithm's performance.
 
 If the learning rate is too small, the Gradient Descent Algorithm may take longer to converge, or it may even reach the maximum iteration before reaching the optimal point. Conversely, if the learning rate is too large, the algorithm may not converge to the optimal point, and it may jump around or even diverge completely.
