@@ -23,3 +23,14 @@ This repository contains my data science and machine learning projects. I am cur
 
 
 I will be implementing these algorithms from scratch and also making use of popular libraries such as Scikit-Learn and Tensorflow. My projects will include both supervised and unsupervised learning algorithms, with a focus on real-world applications.
+
+
+
+
+
+Further Reading
+Hands-On Machine Learning with Scikit-learn, Keras, and Tensorflow
+An Introduction to Statistical Learning: with Applications in R
+Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence
+Python Basics: A Practical Introduction to Python3
+Python Machine Learning
