@@ -8,11 +8,7 @@ Clustering is the process of dividing data into groups or clusters based on thei
 
 Unsupervised learning is often used for exploratory data analysis, data visualization, and data preprocessing in preparation for supervised learning. It can also be used for applications such as recommendation systems, market segmentation, and image or speech recognition.
 
-
-
 ![image](https://www.tibco.com/sites/tibco/files/media_entity/2020-09/unsupervised-learning-diagram.svg)
-
-
 
 Unsupervised learning refers to the type of machine learning where the algorithm learns from unlabeled data, without any specific guidance or supervision. Here are some benefits of unsupervised learning:
 
