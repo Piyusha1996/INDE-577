@@ -10,6 +10,7 @@ Unsupervised learning is often used for exploratory data analysis, data visualiz
 
 ![image](https://www.tibco.com/sites/tibco/files/media_entity/2020-09/unsupervised-learning-diagram.svg)
 
+
 Unsupervised learning refers to the type of machine learning where the algorithm learns from unlabeled data, without any specific guidance or supervision. Here are some benefits of unsupervised learning:
 
 1. Finding patterns in unstructured data: Unsupervised learning is particularly useful when working with unstructured data such as text, images, or audio. This type of learning can find patterns or groupings in the data that would be difficult to identify with manual analysis.
