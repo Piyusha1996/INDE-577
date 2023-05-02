@@ -53,6 +53,5 @@ Overall, KNN can be a powerful and useful algorithm for many machine learning ta
 
 #Acknowledgements
 
-[K Nearest Neigbors](https://medium.com/@muhammadammarabid01/k-nearest-neigbors-knn-basic-algorithm-from-scratch-in-python-8471b655a013)
-
-[classification](https://stackoverflow.com/questions/11568897/value-of-k-in-k-nearest-neighbor-algorithm)
+[K- nearest neighbours](https://medium.com/@muhammadammarabid01/k-nearest-neigbors-knn-basic-algorithm-from-scratch-in-python-8471b655a013)
+[[classification](https://stackoverflow.com/questions/11568897/value-of-k-in-k-nearest-neighbor-algorithm)
