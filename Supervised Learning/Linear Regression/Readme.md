@@ -9,5 +9,3 @@ The independent variable, also known as the predictor or explanatory variable, r
 Linear regression is a supervised learning algorithm that predicts continuous or numeric variables, such as age, salary, product price, and sales, by simulating a mathematical relationship between variables. It is a useful method for stock market forecasting, scientific analysis, and portfolio management when there are at least two variables available in the data.
 
 The linear regression model is represented by a straight line with a slope, which can be used to make predictions for new data points. The line of regression is the best-fit line that represents the linear relationship between the independent and dependent variables.
-
-In summary, linear regression is a valuable algorithm for predicting the outcome of future events by analyzing the linear relationship between two variables.
