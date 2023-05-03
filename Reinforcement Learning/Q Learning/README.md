@@ -24,6 +24,7 @@ One of the main advantages of Q-learning is that it does not require knowledge o
 
 To address these issues, variants of Q-learning such as Double Q-learning, Deep Q-Networks (DQNs), and Dueling DQNs have been proposed. These algorithms use neural networks to approximate the Q-function and improve the performance and stability of Q-learning.
 
+# Acknowgement
 
-Stop generating[article](https://blog.floydhub.com/an-introduction-to-q-learning-reinforcement-learning/)
+[article](https://blog.floydhub.com/an-introduction-to-q-learning-reinforcement-learning/)
 
